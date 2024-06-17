@@ -2,7 +2,7 @@
 
 # BlackjackAI: A Neural Network-Powered Blackjack Game
 
-![Demo](backjack2.JPG)
+![Demo](backJack2.JPG)
 
 ## Overview
 
